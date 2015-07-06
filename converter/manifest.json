@@ -6,5 +6,7 @@
   },
   "manifest_version": 2,
   "name": "Converter",
-  "version": "1.0.1"
+  "version": "0.2",
+  "description": "My 1st Chrome App! V.Z",
+  "icons": {"128": "calculator-128.png"}
 }
